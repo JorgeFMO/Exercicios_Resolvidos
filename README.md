@@ -1,2 +1,1 @@
-# ExerciciosResolvidos
- 
+São os Exercícios Resolvidos do curso: C# primeiros passos: Lógica de Programação e Algoritmos.
